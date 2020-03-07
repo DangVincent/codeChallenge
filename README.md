@@ -18,4 +18,6 @@ I have noticed that there was a common trend on twitter that has been going on f
 With the given time and resources during my internship, I am hoping to build team relationships with the Critical Mass team. I feel that good communication makes for a great team, and creating best practices around how a team is going to communicate is really important. I'm really excited about this opportunity because it will give me exposure to learning more about development best practice and standards, technical designs and troubleshooting through the mentorship. I know Critical Mass values continuous learning which will definitely help me sharpen my skills in React and learn new skills like GraphQL. Before the end of summer, I hope to be deploying and shipping code into production.
 
 ## Code Challenge
-[Fancy Italian Restaurant Demo](https://codesandbox.io/s/2020-internship-exercise-menu-xez77)
+[Fancy Italian Restaurant Sandbox](https://codesandbox.io/s/2020-internship-exercise-menu-xez77)
+
+[Fancy Italian Restaurant Demo](https://xez77.csb.app/)
